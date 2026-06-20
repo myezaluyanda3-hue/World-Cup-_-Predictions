@@ -2,7 +2,7 @@
 
 Simulates the full 48-team 2026 World Cup using **Elo ratings**, **calibrated Poisson GLMs**, and **Monte Carlo simulation** (10,000+ runs) to produce win probabilities at every stage.
 
-Built in R as part of an Honours Statistics portfolio project.
+Built in R.
 
 ---
 
